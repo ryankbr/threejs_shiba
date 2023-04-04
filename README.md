@@ -1,7 +1,6 @@
 # threejs_shiba
 three.js workshop competition submission
 
--
 
 setup:
 install node.js (if you don't already have it)
