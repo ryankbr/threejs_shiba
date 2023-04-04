@@ -1,6 +1,8 @@
 # threejs_shiba
 three.js workshop competition submission
 
+shiba.js:
+
 ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk3MDNmNzhiMDc4MjcwYzUzZWNlM2MwMTdmNmU4M2ZhMjA1NmVmNiZjdD1n/g1QFdUA6dKEyj2iHpP/giphy.gif)
 
 setup:
